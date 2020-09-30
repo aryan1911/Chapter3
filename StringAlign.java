@@ -18,7 +18,7 @@ RIGHT,
 }
 /** Current justification */
 private Justify just;
-/** Current max length */
+/** Current max lengths */
 private int maxChars;
 /** Construct a StringAlign formatter; length and alignment are
 * passed to the Constructor instead of each format() call as the
